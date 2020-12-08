@@ -5,10 +5,23 @@
   "author": "nick@deploy.at",
   "license": "MIT",
   "dependencies": {
+    "@0x/order-utils": "^10.2.4",
     "@openzeppelin/contracts": "^3.2.0",
     "@truffle/hdwallet-provider": "^1.1.0",
+    "axios": "^0.19.2",
+    "console.table": "^0.10.0",
+    "cors": "",
     "dotenv": "^8.2.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "infura-web3-provider": "0.0.3",
+    "lodash": "^4.17.15",
+    "moment": "^2.25.3",
+    "moment-timezone": "^0.5.28",
+    "sha3": "2.0.2",
     "truffle-flattener": "^1.5.0",
-    "truffle-plugin-verify": "^0.5.2"
+    "truffle-plugin-verify": "^0.5.2",
+    "web3": "^1.3.0",
+    "web3-provider-engine": "^16.0.1"
   }
 }
